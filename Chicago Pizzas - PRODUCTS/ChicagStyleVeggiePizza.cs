@@ -4,8 +4,8 @@ using System.Text;
 
 namespace PizzaFactory
 {
-    class NYStyleCheesePizza : Pizza
+    class ChicagoStyleVeggiePizza : Pizza
     {
-        
+
     }
 }
